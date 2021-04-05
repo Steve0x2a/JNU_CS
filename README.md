@@ -155,6 +155,8 @@
 
 - [830真题](https://github.com/Steve0x2a/JNU_CS/tree/main/ppq/830)
 - [848真题](https://github.com/Steve0x2a/JNU_CS/tree/main/ppq/848)
+- [咖啡版本830答案](https://github.com/Steve0x2a/JNU_CS/tree/main/ppq/830/%E5%92%96%E5%95%A1%E7%89%88%E6%9C%AC%E7%AD%94%E6%A1%88(%E6%9C%AA%E6%A0%A1%E6%AD%A3))
+- [群内流传版本830答案](https://github.com/Steve0x2a/JNU_CS/tree/main/ppq/830/%E7%BE%A4%E4%BC%A0%E7%89%88%E6%9C%AC%E7%AD%94%E6%A1%88(%E6%9C%AA%E6%A0%A1%E6%AD%A3))
 
 
 
@@ -165,6 +167,8 @@
 1. [(目录)数据结构(C语言版).严蔚敏](https://1drv.ms/b/s!AtdN2yuHNMLxhootWw-B9fW_f5coYg?e=gfiLts)
 2. [(目录)计算机操作系统（第4版）汤小丹](https://1drv.ms/b/s!AtdN2yuHNMLxhf9aJIM2f0Vb9jdHiA?e=xTp210)
 3. [《计算机操作系统（第4版）》学习指导与题解](https://1drv.ms/b/s!AtdN2yuHNMLxhohT040qF9MOeX8PGA?e=fM4dF7)
+4. [暨大部分数据结构PPT](https://github.com/Steve0x2a/JNU_CS/tree/main/ppt/ds)
+5. [暨大部分操作系统PPT](https://github.com/Steve0x2a/JNU_CS/tree/main/ppt/os)
 
 
 
@@ -205,7 +209,7 @@
    - 复试线: 354
    - 录取平均分: 360
 
-2021复录比情况：信科院除了计专1.8：1，其余都是1.9：1（往年都是1.5：1为主），智科院调剂3：1，能源调剂1.76：1，纳米调剂1.2：1。
+2021复录比情况：信科院除了计专1.8：1，其余都是1.9：1（往年都是1.5：1为主），智科院调剂3：1，能源调剂1.76：1，纳米调剂1.5：1。
 
 [复试名单](https://github.com/Steve0x2a/JNU_CS/blob/main/info/%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A62021%E5%B9%B4%E5%86%85%E6%8B%9B%E7%A1%95%E5%A3%AB%E7%A0%94%E7%A9%B6%E7%94%9F%E5%A4%8D%E8%AF%95%E6%96%B9%E6%A1%88.doc)
 
