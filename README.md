@@ -111,7 +111,7 @@
 
 #### 2021
 
-![image-20210717095035526](D:\OneDrive\Code\JNU_CS\images\image-20210717095035526.png)
+![image-20210717095035526](./images/image-20210717095035526.png)
 
 #### 2020
 
