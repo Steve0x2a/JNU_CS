@@ -201,6 +201,8 @@
 
 [三个月带你上岸暨南大学AI专硕2021](https://zhuanlan.zhihu.com/p/362070927?utm_source=QQ_article_bottom)
 
+[【考研经验贴】裸辞跨考一战上岸，复试我成功逆袭啦](https://www.douban.com/note/800300800/)
+
 
 
 ## 复试
