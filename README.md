@@ -194,7 +194,8 @@
 [双非->暨南网安学硕](https://zhuanlan.zhihu.com/p/492472227)
 
 ### 人工智能
-暂无
+[2022暨南大学智科AI考研经验贴](https://zhuanlan.zhihu.com/p/492443532)
+
 ### 以往年份经验贴
 <details>
 <summary>2021届经验贴</summary>
