@@ -190,10 +190,11 @@
 ### 计算机
 [关于我考研的这一年随记 —— 2022暨南大学电子信息计算机技术专业初试第三复试第一](https://blog.csdn.net/qq_43779149/article/details/123930839)
 [2022暨南大学考研经验分享贴](https://zhuanlan.zhihu.com/p/492538328)
+[暨南大学2022计专上岸经验贴(逆袭哥)](https://zhuanlan.zhihu.com/p/492981478)
 
 ### 网络安全
 [双非->暨南网安学硕](https://zhuanlan.zhihu.com/p/492472227)
-
+[22年二本无科研无奖项低绩点暨大网专上岸经验贴](https://zhuanlan.zhihu.com/p/493580553)
 ### 人工智能
 [2022暨南大学智科AI考研经验贴](https://zhuanlan.zhihu.com/p/492443532)
 
