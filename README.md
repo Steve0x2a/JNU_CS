@@ -97,7 +97,7 @@
 
 - [研招网](https://yz.chsi.com.cn/)
 - [暨南大学研究生招生信息网](https://yz.jnu.edu.cn/)
-- [暨南大学信科院官网](https://xxxy2016.jnu.edu.cn/)
+- [暨南大学信科院官网](https://xxxy.jnu.edu.cn/)
 - [暨南大学智科院官网](https://sisse.jnu.edu.cn/)
 
 
